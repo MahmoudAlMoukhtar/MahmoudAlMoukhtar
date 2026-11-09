@@ -1,22 +1,48 @@
-# Hi, I'm Mahmoud Al Moukhtar 👋
+<div align="center">
 
-### Front-End & Mobile Developer · Angular · TypeScript · Ionic · Capacitor
+# Mahmoud Al Moukhtar
 
-I build web and cross-platform mobile apps with Angular, Ionic, and Capacitor,
-and I have more than 3 years of experience doing it. I care about clean
-architecture, interfaces that work well in Arabic (RTL) and English, and
-getting apps released on both Google Play and the App Store.
+### Front-End & Mobile Developer
 
-📍 Currently building **Fatora**, an invoicing and point-of-sale platform for
-merchants in Qatar and Saudi Arabia.
+**Angular · TypeScript · Ionic · Capacitor**
+
+Building reliable web and cross-platform mobile experiences for real-world products.
+
+[Website](https://mahmoudmk.tech) · [LinkedIn](https://linkedin.com/in/mahmoud-al-moukhtar) · [Email](mailto:mahmoudmk.tech@gmail.com)
+
+</div>
 
 ---
 
-## 🛠 Tech stack
+## About
 
-**Frontend:** Angular · TypeScript · JavaScript · RxJS · NgRx · HTML5 · SCSS  
-**Mobile:** Ionic · Capacitor · Android · iOS · custom Capacitor plugins  
-**Tooling:** Git · REST APIs · Karma/Jasmine · Ionic Appflow · Codemagic CI
+Front-End Developer with **3+ years of experience** building web and cross-platform mobile applications. I work primarily with Angular, TypeScript, Ionic, and Capacitor, contributing across frontend architecture, responsive user interfaces, REST API integrations, state management, and mobile release workflows.
+
+Currently contributing to **Fatora**, a fintech and merchant platform serving the Qatar and Saudi Arabia markets. I have also led frontend implementation and contributed to the technical direction and initial production launch of **BidRadar**, a B2B SaaS platform.
+
+I care about maintainable code, thoughtful user experiences, and building products that work well in both **Arabic (RTL)** and English.
+
+## Core expertise
+
+- **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, SCSS, responsive UI
+- **State & data:** RxJS, NgRx, REST API integration
+- **Cross-platform mobile:** Ionic, Capacitor, Android and iOS builds and releases
+- **Native integrations:** Custom Capacitor plugins, printing, notifications, camera and file workflows
+- **Delivery:** Git, Azure DevOps (TFS), mobile release workflows, technical documentation
+
+## Selected work
+
+### Fatora — Fintech, invoicing & POS
+Contributing to the web and cross-platform mobile application for a merchant platform serving Qatar and Saudi Arabia. Work includes frontend feature development, API integrations, Arabic/English experiences, POS integration, native capabilities, and mobile releases.
+
+[Google Play](https://play.google.com/store/apps/details?id=io.fatora.fatora) · [App Store](https://apps.apple.com/us/app/fatora-invoice-pos-store/id1364633643#information) · [Fatora website](https://fatora.io)
+
+### BidRadar — Tender intelligence SaaS
+Led frontend implementation and contributed to technical direction, PRD authoring, technology selection, and the delivery roadmap. The initial production release included tender discovery, Kanban-style tender management, analytics, competitor intelligence, and notifications.
+
+*Project details are shared at a high level; proprietary source code and confidential information are not published.*
+
+## Technology
 
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
@@ -29,24 +55,14 @@ merchants in Qatar and Saudi Arabia.
   <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS" />
 </p>
 
----
-
-## 💼 Featured work
-
-### Fatora: invoicing & POS for merchants
-Mobile app for Android and iOS, built with Ionic and Angular on Capacitor.
-
-- Bilingual Arabic/English interface, designed for Arabic (right-to-left) first
-- Includes the point-of-sale module, plus invoices, payment links, an online store and reports
-- Native features: printing, push notifications, file and camera uploads, and custom Capacitor plugins
-- Releases to Google Play and the App Store, including keeping up with new Android and iOS platform requirements
-
-[Google Play](https://play.google.com/store/apps/details?id=io.fatora.fatora) · [App Store](https://apps.apple.com/us/app/fatora-invoice-pos-store/id1364633643#information)
-
----
-
-## 📫 Get in touch
+## Contact
 
 - **Email:** [mahmoudmk.tech@gmail.com](mailto:mahmoudmk.tech@gmail.com)
 - **LinkedIn:** [mahmoud-al-moukhtar](https://linkedin.com/in/mahmoud-al-moukhtar)
 - **Website:** [mahmoudmk.tech](https://mahmoudmk.tech)
+
+<div align="center">
+
+*Open to discussing frontend engineering, cross-platform mobile development, and product collaboration.*
+
+</div>
