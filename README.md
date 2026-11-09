@@ -18,7 +18,7 @@ Building reliable web and cross-platform mobile experiences for real-world produ
 
 Front-End Developer with **3+ years of experience** building web and cross-platform mobile applications. I work primarily with Angular, TypeScript, Ionic, and Capacitor, contributing across frontend architecture, responsive user interfaces, REST API integrations, state management, and mobile release workflows.
 
-Currently contributing to **Fatora**, a fintech and merchant platform serving the Qatar and Saudi Arabia markets. I have also led frontend implementation and contributed to the technical direction and initial production launch of **BidRadar**, a B2B SaaS platform.
+Currently contributing to **Fatora**, a fintech and merchant platform serving the Qatar and Saudi Arabia markets.
 
 I care about maintainable code, thoughtful user experiences, and building products that work well in both **Arabic (RTL)** and English.
 
@@ -36,9 +36,6 @@ I care about maintainable code, thoughtful user experiences, and building produc
 Contributing to the web and cross-platform mobile application for a merchant platform serving Qatar and Saudi Arabia. Work includes frontend feature development, API integrations, Arabic/English experiences, POS integration, native capabilities, and mobile releases.
 
 [Google Play](https://play.google.com/store/apps/details?id=io.fatora.fatora) · [App Store](https://apps.apple.com/us/app/fatora-invoice-pos-store/id1364633643#information) · [Fatora website](https://fatora.io)
-
-### BidRadar — Tender intelligence SaaS
-Led frontend implementation and contributed to technical direction, PRD authoring, technology selection, and the delivery roadmap. The initial production release included tender discovery, Kanban-style tender management, analytics, competitor intelligence, and notifications.
 
 *Project details are shared at a high level; proprietary source code and confidential information are not published.*
 
