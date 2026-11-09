@@ -8,7 +8,7 @@
 
 Building reliable web and cross-platform mobile experiences for real-world products.
 
-[Website](https://mahmoudmk.tech) · [LinkedIn](https://linkedin.com/in/mahmoud-al-moukhtar) · [Email](mailto:mahmoudmk.tech@gmail.com)
+[Website](https://mahmoudalmoukhtar.github.io/portfolio/) · [LinkedIn](https://linkedin.com/in/mahmoud-al-moukhtar) · [Email](mailto:mahmoudmk.tech@gmail.com)
 
 </div>
 
